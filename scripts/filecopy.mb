@@ -1,0 +1,11 @@
+main(
+prt "From File:"
+qry a
+clr
+prt "To File:"
+qry b
+clr
+txi z a
+txe z b
+prt "Copied!"
+)
